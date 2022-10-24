@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "image": "https://i.ibb.co/PmCr6Hh/1362070-b9a1-2.jpg",
+      "price": 14.99,
+      "tutor": "Schwarzmüller",
+      "rating": {"rate": "4.7","total": "57,389"},
+      "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+      "feature": {"1": "Build powerful, fast, user-friendly and reactive web apps", "2": "Provide amazing user experiences by leveraging the power of JavaScript with ease", "3": "Learn all about React Hooks and React Components"}
+    },
+    {
+      "id": 2,
+      "name": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2022",
+      "image": "https://i.ibb.co/LJRRFQS/851712-fc61-6.jpg",
+      "price": 11.99,
+      "tutor": "Jonas Schmedtmann",
+      "rating": 
+        {
+          "rate": "4.8", "total": "39,027"
+        },
+      "description": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
+      "feature": {"1": "Master the entire modern back-end stack", "2": "Build a complete, beautiful & real-world application", "3": "Build a fast, scalable, feature-rich RESTful API"}
+    },
+    {
+      "id": 3,
+      "name": "The Complete JavaScript Course 2022: From Zero to Expert!",
+      "image": "https://i.ibb.co/Z1GCD1K/1672410-9ff1-5.jpg",
+      "price": 13.99,
+      "tutor": "Jonas Schmedtmann",
+      "rating": 
+        {
+          "rate": "4.9", "total": "37,271"
+        },
+      "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+      "feature": {"1": "Become an advanced JavaScript developer from scratch", "2": "Build 6 beautiful real-world projects for your portfolio", "3": "Become job-ready by understanding how JavaScript really works"}
+    },
+    {
+      "id": 4,
+      "name": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+      "image": "https://i.ibb.co/qdfyv5T/1026604-790b-2.jpg",
+      "price": 19.99,
+      "tutor": "Jonas Schmedtmann",
+      "rating":
+        {
+          "rate": "4.6", "total": "27,209"
+        },
+      "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+      "feature": {"1": "Tons of modern CSS techniques to create stunning designs and effects", "2": "Advanced CSS animations with @keyframes, animation and transition", "3": "How CSS works behind the scenes: the cascade, specificity, inheritance, etc"}
+    },
+    {
+      "id": 5,
+      "name": "Docker & Kubernetes: The Practical Guide [2022 Edition]",
+      "image": "https://img-c.udemycdn.com/course/240x135/3490000_d298_2.jpg",
+      "price": 16.99,
+      "tutor": "Academind",
+      "rating":
+        {
+          "rate": "4.7", "total": "13454"
+        },
+      "description": "Learn Docker, Docker Compose, Multi-Container Projects, Deployment and all about Kubernetes from the ground up!",
+      "feature": {"1": "Learn what Docker and Kubernetes are and why you might want to use them", "2": "Learn how to install and use Docker on any system (macOS, Windows, Linux)", "3": "Learn how to create and use Images & Containers with Docker"}
+    },
+    {
+      "id": 6,
+      "name": "The Complete Financial Analyst Course 2022",
+      "image": "https://img-c.udemycdn.com/course/240x135/648826_f0e5_4.jpg",
+      "price": 17.99,
+      "tutor": "365 Careers",
+      "rating":
+        {
+          "rate": "4.6", "total": "358,359"
+        },
+      "description": "Excel, Accounting, Financial Statement Analysis, Business Analysis, Financial Math, PowerPoint: Everything is Included!",
+      "feature": {"1": "Work comfortably with Microsoft Excel", "2": "Format spreadsheets in a professional way", "3": "Be much faster carrying out regular tasks"}
+    },
+    {
+      "id": 7,
+      "name": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games",
+      "image": "https://img-c.udemycdn.com/course/240x135/648826_f0e5_4.jpg",
+      "price": 15.99,
+      "tutor": "Sam Pattuzzi",
+      "rating":
+        {
+          "rate": "4.7", "total": "318,246"
+        },
+      "description": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 5 video games in Unreal",
+      "feature": {"1": "How to make games in Unreal Engine 5", "2": "C++, the games industry standard language", "3": "Object Oriented Programming and how to put it into practice."}
+    },
+    {
+        "id": 8,
+        "name": "The Complete Android 12 & Kotlin Development Masterclass",
+        "image": "https://img-c.udemycdn.com/course/240x135/2642574_61bb_2.jpg",
+        "price": 17.99,
+        "tutor": "Denis Panjuta",
+        "rating":
+          {
+            "rate": "4.6", "total": "46,297"
+          },
+        "description": "Learn Android 12 App Development From Beginner to Advanced Developer. Build Apps like Trello, 7Min Workout, Weather App",
+        "feature": {"1": "You can build any Android app you can think of.", "2": "You will build Apps for your portfolio to apply for jr. Android developer Jobs.", "3": "You'll be able to work as an Android freelancer and work from anywere in the world."}
+    },
+    {
+        "id": 9,
+        "name": "Advanced AI: Deep Reinforcement Learning in Python",
+        "image": "https://img-c.udemycdn.com/course/240x135/1153742_e649.jpg",
+        "price": 29.99,
+        "tutor": "Lazy Programmer Inc.",
+        "rating":
+          {
+            "rate": "4.7", "total": "35,569"
+          },
+        "description": "The Complete Guide to Mastering Artificial Intelligence using Deep Learning and Neural Networks",
+        "feature": {"1": "Build various deep learning agents (including DQN and A3C)", "2": "Apply a variety of advanced reinforcement learning algorithms to any problem", "3": "Q-Learning with Deep Neural Networks"}
+    }
+
+  ]
