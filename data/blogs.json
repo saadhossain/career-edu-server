@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Cors in Node Js",
+        "description": "CORS means for Cross-Origin Resource Sharing. It allow use to use API or share API to other server. By using Cors we can call the data from the server to our client site. This is done by bypassing the Access-Control-Allow-Origin headers, which specify which origins can access the API. In additionally, CORS is a browser security feature that restricts cross-origin HTTP requests with other servers and specifies which domains/site can access your resources. An API is a set procedure for two programs to communicate. This means that API resources are consumed by other clients and servers. Suppose The client and server have a different origin from each other, and the client want to  accessing resources from server. In this case, trying to make a request to a resource on the other server will fail. This is a security concern for the browser. CORS comes into play to disable this mechanism and allow access to these resources. It will add a response header access-control-allow-origins and specify which origins are permitted. CORS ensures that we are sending the right headers.",
+        "image": "https://i.ibb.co/CP8977r/cors-1-1024x512.jpg"
+    },
+    {
+        "id": 2,
+        "title":"Why We Use Firebase?",
+        "description":"Google Firebase offers many features that pitch it as the go-to backend development tool for web and mobile apps. We can consider leveraging this tool if wish to host and manage your app in the cloud. We use Firebase to Implement Login/Registration system to our website, It offers us many method to add the login  feature, among them, google, faceboo, github, twitter, microsoft and of course login with email address. Firebase is also used for hosting app to the cloud without having hassle of server management. ",
+        "image": "https://i.ibb.co/KVPDpGQ/cufhvx44o66bb32ll2l8.jpg"
+    },
+    {
+        "id":3,
+        "title": "How React Private Router Works?",
+        "description": "Private Routes in React Router (also called Protected Routes) require a user being authorized to visit a route (read: page). So if a user is not authorized for a specific page, they cannot access it. The most common example is authentication in a React application where a user can only access the protected pages when they are authorized (which means in this case being authenticated). Authorization goes beyond authentication though. For example, a user can also have roles and permissions which give a user access to specific areas of the application.",
+        "image":"https://i.ibb.co/KNHFXpz/maxresdefault.jpg"
+    },
+    {
+        "id":4,
+        "title":"What is Node? How does it Works?",
+        "description":"Node.js is an open source, cross-platform runtime environment and library that is used for running web applications outside the client’s browser. It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind.It runs parallel on the server to provide the information to multiple clients. Node.js is an event loop single-threaded language. It can handle concurrent requests with a single thread without blocking it for one request. Node.js basically works on two concept, Asynchronous and Non-blocking Input/Output",
+        "image":"https://i.ibb.co/y6BqNpg/4-steps-to-install-nodejs-on-ubuntu-20-04.png"
+    }
+]
