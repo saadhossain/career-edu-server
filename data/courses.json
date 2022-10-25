@@ -7,7 +7,7 @@
       "tutor": "Schwarzmüller",
       "rating": {"rate": "4.7","total": "57,389"},
       "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
-      "feature": {"1": "Build powerful, fast, user-friendly and reactive web apps", "2": "Provide amazing user experiences by leveraging the power of JavaScript with ease", "3": "Learn all about React Hooks and React Components"}
+      "feature": {"one": "Build powerful, fast, user-friendly and reactive web apps", "two": "Provide amazing user experiences by leveraging the power of JavaScript with ease", "three": "Learn all about React Hooks and React Components"}
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
           "rate": "4.8", "total": "39,027"
         },
       "description": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
-      "feature": {"1": "Master the entire modern back-end stack", "2": "Build a complete, beautiful & real-world application", "3": "Build a fast, scalable, feature-rich RESTful API"}
+      "feature": {"one": "Master the entire modern back-end stack", "two": "Build a complete, beautiful & real-world application", "three": "Build a fast, scalable, feature-rich RESTful API"}
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
           "rate": "4.9", "total": "37,271"
         },
       "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
-      "feature": {"1": "Become an advanced JavaScript developer from scratch", "2": "Build 6 beautiful real-world projects for your portfolio", "3": "Become job-ready by understanding how JavaScript really works"}
+      "feature": {"one": "Become an advanced JavaScript developer from scratch", "two": "Build 6 beautiful real-world projects for your portfolio", "three": "Become job-ready by understanding how JavaScript really works"}
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
           "rate": "4.6", "total": "27,209"
         },
       "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
-      "feature": {"1": "Tons of modern CSS techniques to create stunning designs and effects", "2": "Advanced CSS animations with @keyframes, animation and transition", "3": "How CSS works behind the scenes: the cascade, specificity, inheritance, etc"}
+      "feature": {"one": "Tons of modern CSS techniques to create stunning designs and effects", "two": "Advanced CSS animations with @keyframes, animation and transition", "three": "How CSS works behind the scenes: the cascade, specificity, inheritance, etc"}
     },
     {
       "id": 5,
@@ -59,7 +59,7 @@
           "rate": "4.7", "total": "13454"
         },
       "description": "Learn Docker, Docker Compose, Multi-Container Projects, Deployment and all about Kubernetes from the ground up!",
-      "feature": {"1": "Learn what Docker and Kubernetes are and why you might want to use them", "2": "Learn how to install and use Docker on any system (macOS, Windows, Linux)", "3": "Learn how to create and use Images & Containers with Docker"}
+      "feature": {"one": "Learn what Docker and Kubernetes are and why you might want to use them", "two": "Learn how to install and use Docker on any system (macOS, Windows, Linux)", "three": "Learn how to create and use Images & Containers with Docker"}
     },
     {
       "id": 6,
@@ -72,7 +72,7 @@
           "rate": "4.6", "total": "358,359"
         },
       "description": "Excel, Accounting, Financial Statement Analysis, Business Analysis, Financial Math, PowerPoint: Everything is Included!",
-      "feature": {"1": "Work comfortably with Microsoft Excel", "2": "Format spreadsheets in a professional way", "3": "Be much faster carrying out regular tasks"}
+      "feature": {"one": "Work comfortably with Microsoft Excel", "two": "Format spreadsheets in a professional way", "three": "Be much faster carrying out regular tasks"}
     },
     {
       "id": 7,
@@ -85,7 +85,7 @@
           "rate": "4.7", "total": "318,246"
         },
       "description": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 5 video games in Unreal",
-      "feature": {"1": "How to make games in Unreal Engine 5", "2": "C++, the games industry standard language", "3": "Object Oriented Programming and how to put it into practice."}
+      "feature": {"one": "How to make games in Unreal Engine 5", "two": "C++, the games industry standard language", "three": "Object Oriented Programming and how to put it into practice."}
     },
     {
         "id": 8,
@@ -98,7 +98,7 @@
             "rate": "4.6", "total": "46,297"
           },
         "description": "Learn Android 12 App Development From Beginner to Advanced Developer. Build Apps like Trello, 7Min Workout, Weather App",
-        "feature": {"1": "You can build any Android app you can think of.", "2": "You will build Apps for your portfolio to apply for jr. Android developer Jobs.", "3": "You'll be able to work as an Android freelancer and work from anywere in the world."}
+        "feature": {"one": "You can build any Android app you can think of.", "two": "You will build Apps for your portfolio to apply for jr. Android developer Jobs.", "three": "You'll be able to work as an Android freelancer and work from anywere in the world."}
     },
     {
         "id": 9,
@@ -111,7 +111,7 @@
             "rate": "4.7", "total": "35,569"
           },
         "description": "The Complete Guide to Mastering Artificial Intelligence using Deep Learning and Neural Networks",
-        "feature": {"1": "Build various deep learning agents (including DQN and A3C)", "2": "Apply a variety of advanced reinforcement learning algorithms to any problem", "3": "Q-Learning with Deep Neural Networks"}
+        "feature": {"one": "Build various deep learning agents (including DQN and A3C)", "two": "Apply a variety of advanced reinforcement learning algorithms to any problem", "three": "Q-Learning with Deep Neural Networks"}
     }
 
   ]
